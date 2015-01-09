@@ -41,9 +41,13 @@ body {
 }
 
 .title {
+    background-image: url(../images/logo.svg), url(../images/logo.svg);
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: 45px 45px;
     background-color: #E7E5D9;
     margin: 0 auto;
-    align-content: center;
+    
 }
 
 .center {
@@ -51,12 +55,6 @@ body {
     text-align: center;
     align-content: center center;
     vertical-align: center;
-}
-
-.position {
-    float: left;
-    margin: 0 auto;
-    padding: 0 .5em;
 }
 
 .star {
