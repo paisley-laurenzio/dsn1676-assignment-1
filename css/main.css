@@ -42,12 +42,11 @@ body {
 
 .title {
     background-image: url(../images/logo.svg), url(../images/logo.svg);
-    background-position: left, right;
+    background-position: 6% 50%, 94% 50%;
     background-repeat: no-repeat;
     background-size: 45px 45px;
     background-color: #E7E5D9;
-    margin: 0 auto;
-    
+    margin: 0 auto; 
 }
 
 .center {
@@ -61,6 +60,10 @@ body {
     max-width: 2em;
     margin: 0 auto;
     float: left;
+}
+
+.spacing {
+    `margin-left: 7em;
 }
 
 .hat {
@@ -78,7 +81,7 @@ body {
 
 .background {
     background-color: #87714F;
-    margin: 0 auto;
+    margin-bottom: 1em;
     position: relative;
     color: white;
 }
