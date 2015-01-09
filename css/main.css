@@ -44,19 +44,19 @@ body {
     background-color: #E7E5D9;
     margin: 0 auto;
     align-content: center;
-    vertical-align: middle;
 }
 
 .center {
     margin: 0 auto; 
     text-align: center;
     align-content: center center;
-    vertical-align: top;
+    vertical-align: center;
 }
 
 .position {
     float: left;
     margin: 0 auto;
+    padding: 0 1em;
 }
 
 .star {
