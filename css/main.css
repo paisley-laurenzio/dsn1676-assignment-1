@@ -66,11 +66,16 @@ body {
 }
 
 .hat {
-    align-content: center;
+    margin-left: 33%;
+    margin-right: 33%;
+    width: 34%;
 }
 
 .handcuffs {
-    margin: 0 auto;
+    margin-left: 38%;
+    margin-right: 38%;
+    width: 24%;
+    
 }
 
 .background {
