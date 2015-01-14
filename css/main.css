@@ -48,6 +48,10 @@ body {
     margin: 0 auto; 
 }
 
+.shadow {
+    text-shadow: 2px 2px #87714F;
+}
+
 .center {
     margin: 0 auto; 
     text-align: center;
